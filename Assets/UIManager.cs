@@ -25,6 +25,8 @@ public class UIManager : MonoBehaviour
         UpdateScore();
         // This is Thanh Linh
         // test lai
+        // conflict Linh
+        // conflict Linh
     }
 
     void UpdateScore()
